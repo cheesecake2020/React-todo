@@ -102,3 +102,7 @@ ul .list-row .mx-10 {
 ul .list-row:last-of-type {
   margin-bottom: 0px;
 } /*# sourceMappingURL=style.css.map */
+.error {
+  color: red;
+  font-weight: 600;
+}
